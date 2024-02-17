@@ -5,6 +5,6 @@ This is a todo list application
 - HTML
 - CSS
 - JAVASCRIPT
-- REACT JS
+- REACT
 
 
